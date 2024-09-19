@@ -1,0 +1,14 @@
+toml>=0.10.2
+types-toml
+requests~=2.31.0
+types-requests
+prettytable
+types-prettytable
+ledgercomm[hid]
+semver
+requests-cache
+rich==13.3.4
+
+drt-sdk-core>=0.0.1,<0.1.0
+drt-sdk-network-providers>=0.0.1,<0.1.0
+drt-sdk-wallet>=0.0.1,<0.1.0

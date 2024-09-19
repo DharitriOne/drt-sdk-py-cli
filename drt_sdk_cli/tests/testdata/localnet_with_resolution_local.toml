@@ -1,0 +1,12 @@
+[general]
+log_level = "*:DEBUG"
+rounds_per_epoch = 40
+round_duration_milliseconds = 3000
+
+[software.drt_chain_go]
+resolution = "local"
+local_path = "~/drt-sdk/sandbox/drt-chain-go"
+
+[software.drt_chain_proxy_go]
+resolution = "local"
+local_path = "~/drt-sdk/sandbox/drt-chain-proxy-go"
